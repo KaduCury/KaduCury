@@ -10,10 +10,16 @@
    <img align="center" alt="Kadu-Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />
    <img align="center" alt="Kadu-Html5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />
    <img align="center" alt="Kadu-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-   <img align="center" alt="Kadu-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+   <img align="center" alt="Kadu-GitHub" height="41" width="43" src="https://www.pngrepo.com/png/312259/180/github.png" />
    <img align="center" alt="Kadu-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
    <img align="center" alt="Kadu-PyCharm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
    <img align="center" alt="Kadu-VSC" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Kadu-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+   <img align="center" alt="Kadu-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+   <img align="center" alt="Kadu-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+   <img align="center" alt="Kadu-JQuery" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" />
+   
+ 
 
   ![Snake animation](https://github.com/KaduCury/KaduCury/blob/output/github-contribution-grid-snake.svg)
  
